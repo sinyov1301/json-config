@@ -1,7 +1,7 @@
 [
         {
         "name": "UIS.HUB",
-        "url": "https://k1.zammler.kz/ords/app/ThinAPP_api/UserDataHandler",
+        "url": "https://api.zammler.kz/ords/app/ThinAPP_api/UserDataHandler",
         "key": "65F270C1AC8B7EB6E050007F02007618"
         },
 		{
